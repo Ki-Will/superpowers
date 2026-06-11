@@ -11,3 +11,4 @@ triage/
 evals/results/
 evals/.venv/
 evals/.env
+config.bat
